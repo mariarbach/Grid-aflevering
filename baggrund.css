@@ -73,3 +73,9 @@ html, body {
 .grid-item-6::after {
   content: '6';
 }
+.grid-container {
+    display: grid;
+}
+
+
+
